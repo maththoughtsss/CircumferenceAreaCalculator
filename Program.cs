@@ -6,7 +6,7 @@
         {
             string? strRadius;
 
-            double NumRadius, circArea, Pi;
+            double NumRadius, circArea, pi;
             Pi = 3.14;
 
             Console.WriteLine("CIRCUMFERENCE AREA CALCULATOR");
@@ -15,7 +15,7 @@
             strRadius = Console.ReadLine();
             double.TryParse(strRadius, out NumRadius);
 
-            circArea= NumRadius * NumRadius * Pi;
+            circArea= NumRadius * NumRadius * pi;
 
             Console.WriteLine($"Total Area: {circArea} u2");
         }
