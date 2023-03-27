@@ -1,0 +1,15 @@
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\CircumferenceAreaCalculator\bin\Debug\net7.0\CircumferenceAreaCalculator.exe
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\CircumferenceAreaCalculator\bin\Debug\net7.0\CircumferenceAreaCalculator.deps.json
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\CircumferenceAreaCalculator\bin\Debug\net7.0\CircumferenceAreaCalculator.runtimeconfig.json
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\CircumferenceAreaCalculator\bin\Debug\net7.0\CircumferenceAreaCalculator.dll
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\CircumferenceAreaCalculator\bin\Debug\net7.0\CircumferenceAreaCalculator.pdb
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\CircumferenceAreaCalculator\obj\Debug\net7.0\CircumferenceAreaCalculator.csproj.AssemblyReference.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\CircumferenceAreaCalculator\obj\Debug\net7.0\CircumferenceAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\CircumferenceAreaCalculator\obj\Debug\net7.0\CircumferenceAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\CircumferenceAreaCalculator\obj\Debug\net7.0\CircumferenceAreaCalculator.AssemblyInfo.cs
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\CircumferenceAreaCalculator\obj\Debug\net7.0\CircumferenceAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\CircumferenceAreaCalculator\obj\Debug\net7.0\CircumferenceAreaCalculator.dll
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\CircumferenceAreaCalculator\obj\Debug\net7.0\refint\CircumferenceAreaCalculator.dll
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\CircumferenceAreaCalculator\obj\Debug\net7.0\CircumferenceAreaCalculator.pdb
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\CircumferenceAreaCalculator\obj\Debug\net7.0\CircumferenceAreaCalculator.genruntimeconfig.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\CircumferenceAreaCalculator\obj\Debug\net7.0\ref\CircumferenceAreaCalculator.dll
