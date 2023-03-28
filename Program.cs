@@ -7,7 +7,7 @@
             //Variables
             string? strRadius;
             double NumRadius, circArea, pi;
-            Pi = 3.14;
+            pi = 3.14;
             //Title
             Console.WriteLine("CIRCUMFERENCE AREA CALCULATOR");
             //Input
